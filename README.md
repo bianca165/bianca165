@@ -25,5 +25,3 @@ I've worked with several programming languages, on personal projects as well as 
 ### contact me
 
 [LinkedIn](https://www.linkedin.com/in/bianca-curc%C4%83/) · [email](mailto:curcabianca165@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=cdb4f6&height=80&section=footer" width="100%" alt="" />
