@@ -1,5 +1,4 @@
 <h1 align="center">Bianca Curcă</h1> <p align="center"> Applied Computational Intelligence MSc @ Babeș-Bolyai University<br> explainable AI · machine learning · computer vision · anomaly detection<br> still learning, always curious ✨ </p> 
----
 
 ### about me
 
