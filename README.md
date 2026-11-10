@@ -24,4 +24,4 @@ I've worked with several programming languages, on personal projects as well as 
 
 ### contact me
 
-[LinkedIn](https://www.linkedin.com/in/bianca-curc%C4%83/) · [email](mailto:curcabianca165@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bianca-curc%C4%83/) · [curcabianca165@gmail.com]
