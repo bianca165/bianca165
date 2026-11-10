@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f9c5d9&height=180&section=header&text=Bianca%20Curc%C4%83&fontSize=44&fontColor=5b3a6e&fontAlignY=40&desc=explainable%20AI%20%C2%B7%20machine%20learning%20%C2%B7%20computer%20vision%20%C2%B7%20anomaly%20detection&descSize=16&descAlignY=62&descColor=7a5a8c" alt="Bianca Curcă" />
-</p>
-
-<p align="center">
-  Applied Computational Intelligence MSc @ Babeș-Bolyai University<br>
-  still learning, always curious ✨
-</p>
-
+<h1 align="center">Bianca Curcă</h1> <p align="center"> Applied Computational Intelligence MSc @ Babeș-Bolyai University<br> explainable AI · machine learning · computer vision · anomaly detection<br> still learning, always curious ✨ </p> 
 ---
 
 ### about me
