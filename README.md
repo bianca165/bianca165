@@ -8,13 +8,15 @@ I've worked with several programming languages, on personal projects as well as 
 
 ### tools
 
-<p>
-  <img src="https://img.shields.io/badge/Python-f4a6c6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/scikit--learn-c9b6f2?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Java-f9c5d9?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-b8e0d2?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/JavaScript-f7e1a0?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-d9c7f0?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<p> 
+<img src="https://img.shields.io/badge/Python-f4a6c6?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
+<img src="https://img.shields.io/badge/PyTorch-e8a5c0?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> 
+<img src="https://img.shields.io/badge/NumPy-b9c8f2?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> 
+<img src="https://img.shields.io/badge/pandas-d9c7f0?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> 
+<img src="https://img.shields.io/badge/scikit--learn-c9b6f2?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> 
+<img src="https://img.shields.io/badge/Java-f9c5d9?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> 
+<img src="https://img.shields.io/badge/C%2B%2B-b8e0d2?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> 
+<img src="https://img.shields.io/badge/Git-e3d4f5?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
 </p>
 
 ### some projects
@@ -24,4 +26,4 @@ I've worked with several programming languages, on personal projects as well as 
 
 ### contact me
 
-[LinkedIn](https://www.linkedin.com/in/bianca-curc%C4%83/) · [curcabianca165@gmail.com]
+[LinkedIn](https://www.linkedin.com/in/bianca-curc%C4%83/) · curcabianca165@gmail.com
