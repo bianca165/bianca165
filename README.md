@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f9c5d9&height=180&section=header&text=Bianca%20Curc%C4%83&fontSize=44&fontColor=5b3a6e&fontAlignY=40&desc=explainable%20AI%20%C2%B7%20machine%20learning%20%C2%B7%20computer%20vision%20%C2%B7%20anomaly%20detection&descSize=16&descAlignY=62&descColor=7a5a8c" alt="Bianca Curcă" />
+</p>
 
-<!--
-**bianca165/bianca165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Applied Computational Intelligence MSc @ Babeș-Bolyai University<br>
+  still learning, always curious ✨
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### about me
+
+I like understanding how things work, and what I'm most drawn to is making models understandable: explainable AI, machine learning, computer vision and anomaly detection. At the moment I'm working on my dissertation on explainable AI for medical imaging.
+
+I've worked with several programming languages, on personal projects as well as team ones, and I enjoy the team side of it. Good ideas usually get better when a few people look at them from different angles.
+
+### tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-f4a6c6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/scikit--learn-c9b6f2?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Java-f9c5d9?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-b8e0d2?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/JavaScript-f7e1a0?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-d9c7f0?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### some projects
+
+- [**romanian-nlp-ecommerce**](https://github.com/bianca165/romanian-nlp-ecommerce): interpretable AI for Romanian e-commerce reviews, built on the LaROSeDA dataset.
+- [**NetworkSecurityMonitor**](https://github.com/bianca165/NetworkSecurityMonitor): security evaluation of a Java Spring Boot application.
+
+### contact me
+
+[LinkedIn](https://www.linkedin.com/in/bianca-curc%C4%83/) · [email](mailto:curcabianca165@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=cdb4f6&height=80&section=footer" width="100%" alt="" />
